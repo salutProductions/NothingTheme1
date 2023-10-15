@@ -1,0 +1,61 @@
+/**
+ * @name Nothing Theme (1)
+ * @author salutcf
+ * @version 1.0.0
+ * @description Bring Discord to the bright side. A fork of Devil Bro's BasicBackground Theme.
+ * @website https://github.com/salutProductions/NothingTheme1/tree/main
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background: url('https://i.imgur.com/FfNef3A.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: var(--background);
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 43,43,43;
+  --accentcolor: 127,127,127;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.28;
+  --messagetransparency: 0.18;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: Nothing Font;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #FFFFFF;
+  --rs-idle-color: #FF9F00;
+  --rs-dnd-color: #FF0000;
+  --rs-offline-color: #4E4E4E;
+  --rs-streaming-color: #5E00FF;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
