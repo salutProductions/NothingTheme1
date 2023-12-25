@@ -2,7 +2,7 @@
   Bring Discord to the bright side. A theme based on https://www.nothing.tech. A fork of [@DeviLBro](https://github.com/mwittrien)'s BasicBackground Theme.
 
 # Installation
-  To install this Discord theme, you require to have BetterDiscord installed. If you do not have it installed, you can do so at: https://betterdiscord.app
+  To install this Discord theme, you require to have BetterDiscord, Vencord or another modified Discord Client installed. If you do not have it installed, you can do so at: https://betterdiscord.app, https://vencord.dev.
 
   * Download the theme file
   * Go to your Discord user settings
